@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import R034_ReactstrapAlerts from "./R034_ReactstrapAlerts";
+import R059_FetchGet from "./R059_FetchGet";
 import "bootstrap/dist/css/bootstrap.css";
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <div>
       <h1>Start React 200!</h1>
       <p>CSS 적용하기</p>
-      <R034_ReactstrapAlerts />
+      <R059_FetchGet />
     </div>
   );
 }
