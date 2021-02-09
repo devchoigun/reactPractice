@@ -1,13 +1,14 @@
 import React from "react";
 import "./App.css";
-import SetState from "./R025_SetState";
+import R034_ReactstrapAlerts from "./R034_ReactstrapAlerts";
+import "bootstrap/dist/css/bootstrap.css";
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
       <p>CSS 적용하기</p>
-      <SetState />
+      <R034_ReactstrapAlerts />
     </div>
   );
 }
